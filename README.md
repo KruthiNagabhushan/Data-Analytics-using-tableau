@@ -10,7 +10,7 @@ Employed three distinct datasets available in Kaggle to construct a comprehensiv
 
 
 ## VISUALIZATIONS
-### GDP Growth over years
+### GDP Growth over the years
 By analyzing GDP growth over time, the visualization Fig. 1
 provides an overview of India’s economic development. The
 graph shows differences in growth rates from 2010 to 2022.
